@@ -9,13 +9,12 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Tecni
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎓 Estudiante En el instituto tecnologico de las americas (ITLA), en busqueda de desafios de poner en practica mis conocimientos
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 Con buen manejo, cominicacion y trabajo en equipo, para poder desarrollar y/o trabajar e innovar e ideas planteadas
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador. ☺️
 
 📫 Contacto: **dicloeliam315@gmail.com**
 <!--Intro end-->
