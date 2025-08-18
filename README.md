@@ -10,9 +10,9 @@
 
 <p align="left">
 
-🎓 Estudiante En el instituto tecnologico de las americas (ITLA), en busqueda de desafios de poner en practica mis conocimientos
+🎓 Estudiante En el instituto tecnológico de las Américas (ITLA), en búsqueda de desafíos para poner en práctica mis conocimientos
 
-💻 Con buen manejo, cominicacion y trabajo en equipo, para poder desarrollar y/o trabajar e innovar e ideas planteadas
+💻 Con Responsabilidad, Aptitudes de mejora y crecimiento, comunicación y trabajo en equipo, para poder desarrollar y/o trabajar e innovar en ideas planteadas
 
 📝 roles en el ámbito: desarrollador. ☺️
 
@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,php,py,dotnet,css,html,js,,mysql,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
